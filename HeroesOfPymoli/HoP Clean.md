@@ -12,6 +12,14 @@ data = 'purchase_data.json'
 df = pd.read_json(data)
 ```
 
+# Heroes Of Pymoli Data Analysis
+
+- Users are primarily males (81%) and between the ages of 15-30 (63%). Advertisements and marketing efforts should be targeted towards these demographics. 
+
+- Users older than 40 spend 0.47 to 1.11 more dollars, on average, than any other user age group.
+
+- In terms of user retention, 29% of users purchased more than 1 item.
+
 # Player Count
 
 
